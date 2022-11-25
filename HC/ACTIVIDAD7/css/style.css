@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;  
+    font-size: 14px;
+}.titulo{
+    background-color: aqua; 
+    text-align: center;
+    margin: auto;
+}
+.menu{
+  width: 1000px;
+  margin: auto;
+  padding: 12px;
+  text-align: center;
+}
+.enlace-blue{
+text-decoration:none;
+color: black;
+margin: 8px;
+}
+.espacio{
+padding-top: 24px;
+padding-bottom: 24px;
+}
+.container{
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+}
+h1{
+  font-size: 30px;
+  text-align:center;
+}
+
+.imagen1{
+width:  50%;               
+height: 150px;             
+background-color: #FFDE00; 
+color: #D800A6;
+float:left;
+}
+.imagen2{
+  width:  50%;               
+  height: 150px;              
+  background-color: #7FB77E; 
+  color: #D800A6;
+  float:left;
+  }
+.parrafo{
+  width:  100%;               
+  height: 200px;            
+  background-color: #1CD6CE;
+  color: #181818;
+  clear:both;
+  float:left;
+}
+
+.sidebar{
+  width:  30%;               
+  height: 150px;              
+  background-color: #C1D5A4; 
+  color: #D800A6;
+  clear: both;
+  float:left;
+  }
+.articulo{
+  width:  70%;               
+  height: 150px;              
+  background-color: #21E1E1; 
+  color: #D800A6;
+  float:left;
+  }
+.footer{
+  width:  100%;               
+  height:100px;              
+  background-color: #ECC5FB; 
+  color: #D800A6;
+  clear:both;
+  float:left;
+}
+.div.container.espacio{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    border-radius: 1px solid;
+}
