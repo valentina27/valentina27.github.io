@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: #bbd2ff;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    background-color: cyan;
+    text-align: center;
+    padding: 12px;
+    border-radius: 12px;
+}
+.lol{
+    text-align: center;
+    
+}
+h2{
+    background-color: cyan;
+    color: black;
+    padding: 12px;
+    border-radius: 12px;
+}
